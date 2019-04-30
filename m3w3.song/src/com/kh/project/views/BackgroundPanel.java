@@ -14,7 +14,7 @@ private JPanel panel;
 public BackgroundPanel(JFrame mf) {
 	this.mf = mf;
 	this.setLayout(null);
-	
+	//hello world
 	panel = this;
 	
 	JLabel label = new JLabel(new ImageIcon(new ImageIcon("images/¹æ.PNG").getImage().getScaledInstance(1000, 800, 0)));

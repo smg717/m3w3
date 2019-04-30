@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="com/kh/project/views/" kind="src" path="m3w3.song/src"/>
+	<classpathentry kind="src" path="m3w3.song/src/com/kh/project/views"/>
+	<classpathentry kind="src" path="m3w3/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
